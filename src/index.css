@@ -4,8 +4,8 @@
 
 @import "tailwindcss/utilities";
 body{
-  /* background: linear-gradient(to right, #8e2de2, #4a00e0); */
+  background: linear-gradient(to right, #0f2027, #203a43,#2c5264);
   /* background: linear-gradient(to right,  black 0%, #434343 100%); */
   /* background-color: black; */
-  background-color: #000300;
+  /* background-color: #000300; */
 }
