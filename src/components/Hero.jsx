@@ -6,7 +6,7 @@ const Hero = () => {
     <div className='text-white '>
       <div className='max-w-[800px] mt-[-96px] w-full h-screen mx-auto flex text-center flex-col justify-center '>
         <p className='text-[#00df9a]'>Grow with Data Analytics</p>
-        <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold '>Grow with Data</h1>
+        <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold'>Grow with Data</h1>
         <div className='flex justify-center items-center'>
             <p className='md:text-4xl sm:text-5xl text-xl font-bold mt-1'>Fast, Flexible Financing for</p>
             <Typed className='md:text-4xl sm:text-5xl text-xl font-bold mt-1 md:pl-4 pl-3 text-[#00df9a]'
