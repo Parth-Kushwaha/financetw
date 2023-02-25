@@ -10,7 +10,7 @@ const Singlecard = ({card}) => {
             <h2 className='text-center text-2xl py-8 font-bold'>{card.user}</h2>
             <p className='text-center text-4xl font-bold'>{card.price}</p>
             <div className='text-center font-medium'>
-                <p className='py-2 border-b-2 mx-8 mt-4'>{card.storage}</p>
+                <p className='py-2 border-b mx-8 mt-4'>{card.storage}</p>
                 <p className='py-2 border-b mx-8'>{card.user2}</p>
                 <p className='py-2 border-b mx-8'>{card.send}</p>
             </div>
