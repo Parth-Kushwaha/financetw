@@ -39,7 +39,6 @@ const Cards = () => {
         <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8'>
             {cards.map((card,index) => (<Singlecard card={card} key={index}/>))}
         </div>
-      
     </div>
   )
 }
