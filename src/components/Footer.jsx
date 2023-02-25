@@ -29,7 +29,7 @@ const Footer = () => {
             li2:'Blog',
             li3:'Jobs',
             li4:'Press',
-            li4:'Careers'
+            li5:'Careers'
         },
         {
             head:'Legal',
