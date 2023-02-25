@@ -9,7 +9,7 @@ const Navbar = () => {
   }
   return (
     <div className="text-white flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4">
-      <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Bhai ka Finance</h1>
+      <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Bhai ka Finance | By Parth</h1>
       <ul className='hidden md:flex'>
         <li className='p-3'>HOME</li>
         <li className='p-3'>COMPANY</li>
