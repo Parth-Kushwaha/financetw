@@ -1,4 +1,7 @@
-image.png
+Basic Landing Page
+
+![image](https://user-images.githubusercontent.com/105568566/221348905-d9af8153-4598-4878-a526-94537e885e45.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
