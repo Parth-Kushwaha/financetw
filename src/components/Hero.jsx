@@ -17,6 +17,8 @@ const Hero = () => {
                <div className='md:text-4xl sm:text-5xl text-xl font-bold mt-1 md:pl-4 pl-3 text-[#00df9a]'>
                 <Typewriter
                 words={['BTB','BTC','SASS']}
+                cursor
+                cursorStyle='|'
                 typeSpeed={120}
                 deleteSpeed={140}
                 loop/>
